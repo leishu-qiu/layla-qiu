@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victoria(Leishu) Qiu</h1>
-<h3 align="center">A passionate master's student studying Computer Science at Brown University with 2 YOE priorly.</h3>
+<h1 align="center">Hi there👋, I'm Victoria</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victoria-qiu&label=Profile%20views&color=0e75b6&style=flat" alt="victoria-qiu" /> </p>
 
@@ -8,10 +7,17 @@
 - 💬 Ask me about **Javascript/Java/Python/C/C++ or React/Vue/Flask**
 
 - 📫 How to reach me **leishu_qiu@brown.edu**
+  
+- 🌱  I’m currently learning MERN, Go
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1JADwmQnvhIpqkAy89dp0IA2GF_2XGFko](https://drive.google.com/drive/u/0/folders/1JADwmQnvhIpqkAy89dp0IA2GF_2XGFko)
 
 - ⚡ Fun fact **I love ballroom & Kpop dancing 💃 and musical composition 🎵**
+
+### ✨&nbsp; About Me
+
+I am a passionate and detail-oriented master's student studying CS @ Brown University. I previously worked at Mercedes-Benz Mobility & Technology as software engineer for about 2 years.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
