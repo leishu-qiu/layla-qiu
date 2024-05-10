@@ -8,7 +8,7 @@
   
 - 🌱  I’m currently learning Kubernetes, MERN, and Go
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1JADwmQnvhIpqkAy89dp0IA2GF_2XGFko](https://drive.google.com/file/d/1Wmvlx2eAuqP-1sYLew7qw7kLGulw5WZK/view?usp=sharing)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1Wmvlx2eAuqP-1sYLew7qw7kLGulw5WZK/view?usp=sharing)
 
 - ⚡ Fun fact **I love ballroom & Kpop dancing 💃 and musical composition 🎵**
 
