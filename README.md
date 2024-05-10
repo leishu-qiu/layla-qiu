@@ -1,14 +1,12 @@
 <h1 align="center">Hi there👋, I'm Victoria</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victoria-qiu&label=Profile%20views&color=0e75b6&style=flat" alt="victoria-qiu" /> </p>
+- 🔭 I’m currently working on **[Distributed Digital Library Search Engine](https://github.com/victoria-qiu/distributed-digital-library)** and **[RAG-Based Personalized LLM Chatbot](https://github.com/victoria-qiu/Personalized-LLM)**
 
-- 🔭 I’m currently working on [Distributed Digital Library Search Engine]
+- 💬 Ask me about **Java/Python/C/C++/Javascript or React/Vue/Flask/Spring Boot**
 
-- 💬 Ask me about **Javascript/Java/Python/C/C++ or React/Vue/Flask**
-
-- 📫 How to reach me **leishu_qiu@brown.edu**
+- 📫 How to reach me **qiu.leishu@gmail.com**
   
-- 🌱  I’m currently learning MERN, Go
+- 🌱  I’m currently learning Kubernetes, MERN, and Go
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1JADwmQnvhIpqkAy89dp0IA2GF_2XGFko](https://drive.google.com/drive/u/0/folders/1JADwmQnvhIpqkAy89dp0IA2GF_2XGFko)
 
