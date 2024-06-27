@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Leishu(Victoria)</h1>
 
-- 🔭 I’m currently working on **[Distributed Digital Library Search Engine](https://github.com/victoria-qiu/Distributed-Digital-Library-Search-Engine/tree/main)** and **[RAG-Based Personalized LLM Chatbot](https://github.com/victoria-qiu/Personalized-LLM)**
+- 🔭 I’m currently working on **[Distributed Digital Library Search Engine](https://github.com/victoria-qiu/Distributed-Digital-Library-Search-Engine/tree/main)** and **[RAG-Based Personalized LLM Chatbot](https://github.com/victoria-qiu/RAG-Powered-Personalized-AI-Chatbot)**
 
 - 💬 Ask me about **Java/Python/C/C++/Javascript or React/Vue/Flask/Spring Boot**
 
